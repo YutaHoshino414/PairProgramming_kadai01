@@ -1,0 +1,45 @@
+#company_name{
+  background-color: rgb(77, 156, 81);
+  height:80px;
+  width:700px;
+}
+
+#container{
+  background-color: rgb(231, 231, 231);
+  margin-left: 2rem;
+  margin-right: 2rem;
+  height: 400px;
+}
+
+#form{
+  background-color: white;
+  width:700px;
+  height:700px;
+  margin-left: 2rem;
+  border-style: ridge;
+}
+#wrapper{
+  background-color: rgb(239, 241, 221);
+  margin-top: 1rem;
+  height:800px;
+  
+}
+h1{
+  color:#fff
+}
+span{
+  background-color: hotpink;
+}
+.submit_button{
+
+}
+
+tr{
+  height: 4rem;
+}
+th{
+  text-align: right;
+}
+input {
+  width:350px;
+}
