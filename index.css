@@ -5,7 +5,7 @@
 }
 
 #container{
-  background-color: rgb(231, 231, 231);
+  background-color: rgb(241, 241, 241);
   margin-left: 2rem;
   margin-right: 2rem;
   height: 400px;
@@ -28,7 +28,7 @@ h1{
   color:#fff
 }
 span{
-  background-color: hotpink;
+  background-color:hotpink;
 }
 .submit_button{
 
@@ -40,6 +40,7 @@ tr{
 th{
   text-align: right;
 }
+
 input {
   width:350px;
 }
